@@ -25,15 +25,7 @@ if [ -z "$OUT" -o ! -d "$OUT" ]; then
 	exit 1
 fi
 
-OTAPACKAGE1=$OUT/$TARGET_PRODUCT-ota-$TARGET_BUILD_VARIANT.$USER.zip
-OTAPACKAGE2=$OUT/aosp_mako-ota-eng.user.zip
-
-if [ -f $OTAPACKAGE1 ]
-then
-    OTAPACKAGE=$OTAPACKAGE1
-else
-    OTAPACKAGE=$OTAPACKAGE2
-fi
+OTAPACKAGE=`ls -t $OUT/*.zip | head -1`
 
 QUIET=-q
 DELETE_BINS="applypatch applypatch_static check_prereq recovery updater"
