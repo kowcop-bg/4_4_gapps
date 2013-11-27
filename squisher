@@ -64,6 +64,7 @@ rm -f $REPACK/ota/system/app/BasicDreams.apk
 rm -f $REPACK/ota/system/app/Books.apk
 rm -f $REPACK/ota/system/app/Calendar.apk
 rm -f $REPACK/ota/system/app/CalendarGoogle.apk
+rm -f $REPACK/ota/system/app/Camera2.apk
 rm -f $REPACK/ota/system/app/CertInstaller.apk
 rm -f $REPACK/ota/system/app/Chrome.apk
 rm -f $REPACK/ota/system/app/ChromeBookmarksSyncAdapter.apk
