@@ -68,6 +68,7 @@ rm -f $REPACK/ota/system/app/Camera2.apk
 rm -f $REPACK/ota/system/app/CertInstaller.apk
 rm -f $REPACK/ota/system/app/Chrome.apk
 rm -f $REPACK/ota/system/app/ChromeBookmarksSyncAdapter.apk
+rm -f $REPACK/ota/system/app/CloudPrint2.apk
 rm -f $REPACK/ota/system/app/CMFileManager.apk
 rm -f $REPACK/ota/system/app/CMFileManagerThemes.apk
 rm -f $REPACK/ota/system/app/CMUpdater.apk
@@ -86,6 +87,7 @@ rm -f $REPACK/ota/system/app/FaceLock.apk
 rm -f $REPACK/ota/system/app/Focal.apk
 rm -f $REPACK/ota/system/app/Galaxy4.apk
 rm -f $REPACK/ota/system/app/Gallery2.apk
+rm -f $REPACK/ota/system/app/GalleryGoogle.apk
 rm -f $REPACK/ota/system/app/GenieWidget.apk
 rm -f $REPACK/ota/system/app/Gmail.apk
 rm -f $REPACK/ota/system/app/Gmail2.apk
@@ -98,6 +100,7 @@ rm -f $REPACK/ota/system/app/GooManager.apk
 rm -f $REPACK/ota/system/app/GooUpdater.apk
 rm -f $REPACK/ota/system/app/HoloSpiralWallpaper.apk
 rm -f $REPACK/ota/system/app/HTMLViewer.apk
+rm -f $REPACK/ota/system/app/HPPrintPlugin.apk
 rm -f $REPACK/ota/system/app/iWnnIME.apk
 rm -f $REPACK/ota/system/app/iWnnIME_Kbd_White.apk
 rm -f $REPACK/ota/system/app/Keep.apk
@@ -125,9 +128,11 @@ rm -f $REPACK/ota/system/app/PhaseBeam.apk
 rm -f $REPACK/ota/system/app/PhotoTable.apk
 rm -f $REPACK/ota/system/app/PicoTts.apk
 rm -f $REPACK/ota/system/app/PinyinIME.apk
+rm -f $REPACK/ota/system/app/PlayGames.apk
 rm -f $REPACK/ota/system/app/PlusOne.apk
 rm -f $REPACK/ota/system/app/PrebuiltGmsCore.apk
 rm -f $REPACK/ota/system/app/PrintSpooler.apk
+rm -f $REPACK/ota/system/app/QuickOffice.apk
 rm -f $REPACK/ota/system/app/QuickSearchBox.apk
 rm -f $REPACK/ota/system/app/SetupWizard.apk
 rm -f $REPACK/ota/system/app/SlimFileManager.apk
@@ -136,12 +141,14 @@ rm -f $REPACK/ota/system/app/SnapBlack.apk
 rm -f $REPACK/ota/system/app/SoundRecorder.apk
 rm -f $REPACK/ota/system/app/SpareParts.apk
 rm -f $REPACK/ota/system/app/Stk.apk
+rm -f $REPACK/ota/system/app/Street.apk
 rm -f $REPACK/ota/system/app/talkback.apk
 rm -f $REPACK/ota/system/app/ThemeChooser.apk
 rm -f $REPACK/ota/system/app/ThemeManager.apk
 rm -f $REPACK/ota/system/app/Trebuchet.apk
 rm -f $REPACK/ota/system/app/UnicornPorn.apk
 rm -f $REPACK/ota/system/app/VideoEditor.apk
+rm -f $REPACK/ota/system/app/Videos.apk
 rm -f $REPACK/ota/system/app/VisualizationWallpapers.apk
 rm -f $REPACK/ota/system/app/VoiceDialer.apk
 rm -f $REPACK/ota/system/app/VpnDialogs.apk
